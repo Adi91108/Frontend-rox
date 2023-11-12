@@ -8,24 +8,24 @@ Backend github link:[https://github.com/Adi91108/Backend-rox]
 # Frontend Task - Project Documentation
 
 
-Overview:
+## Overview:
 The frontend task involves creating a single-page application that displays a transactions table, along with bar and pie charts, based on the provided APIs. The user should be able to interact with the table using features like month selection, search functionality, pagination, and data representation through charts.
 
-Features:
-1. Transactions Table:
+## Features:
+1. ### Transactions Table:
 Utilizes the transactions listing API to populate a table.
 Month selection dropdown displays January to December as options, with March selected by default.
 The table lists transactions of the selected month, independent of the year, using the API.
 Search functionality allows filtering transactions by title, description, or price using the API.
 Clearing the search box displays the initial list of transactions for the selected month using the API.
 "Next" and "Previous" buttons load the next and previous page data from the API.
-2. Bar Chart:
+2. ### Bar Chart:
 Represents data from the transactions API in a bar chart for effective visualization.
 Provides insights into transaction data trends and patterns.
-3. Pie Chart:
+3. ###  Pie Chart:
 Utilizes data from the transactions API to generate a pie chart for a comprehensive view of transaction distribution.
 Enhances understanding of transaction categories.
-4. Statistics Modal:
+4.  ### Statistics Modal:
 Displays detailed statistics for the selected month.
 The modal provides a deeper analysis of transaction data for better insights.
 Implementation Steps:
