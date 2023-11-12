@@ -5,7 +5,9 @@ Frontend deployed url:[https://transaction-dashboard-rox.netlify.app/]
 
 Backend github link:[https://github.com/Adi91108/Backend-rox]
 
-#Frontend Task - Project Documentation
+# Frontend Task - Project Documentation
+
+
 Overview:
 The frontend task involves creating a single-page application that displays a transactions table, along with bar and pie charts, based on the provided APIs. The user should be able to interact with the table using features like month selection, search functionality, pagination, and data representation through charts.
 
